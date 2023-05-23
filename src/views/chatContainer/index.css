@@ -1,0 +1,5 @@
+.emChat_container {
+    float: left;
+    width: calc(100vw - 500px);
+    height: 100vh;
+}
